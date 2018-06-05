@@ -1,0 +1,23 @@
+<settings version="2">
+    <setting id="clean_libraries">true</setting>
+    <setting id="clean_music_cron_expression" default="true">0 2 * * *</setting>
+    <setting id="clean_timer" default="true">0</setting>
+    <setting id="clean_video_cron_expression" default="true">0 0 * * *</setting>
+    <setting id="disable_manual_prompt" default="true">false</setting>
+    <setting id="library_to_clean" default="true">0</setting>
+    <setting id="music_advanced_timer" default="true">false</setting>
+    <setting id="music_cron_expression" default="true">0 * * * *</setting>
+    <setting id="music_timer">2</setting>
+    <setting id="notify_next_run">true</setting>
+    <setting id="run_custom_paths" default="true"></setting>
+    <setting id="run_during_playback" default="true">false</setting>
+    <setting id="run_on_idle">true</setting>
+    <setting id="startup_delay" default="true">0</setting>
+    <setting id="update_music" default="true">false</setting>
+    <setting id="update_video">true</setting>
+    <setting id="upgrade_notes">1</setting>
+    <setting id="user_confirm_clean" default="true">false</setting>
+    <setting id="video_advanced_timer" default="true">false</setting>
+    <setting id="video_cron_expression" default="true">0 * * * *</setting>
+    <setting id="video_timer">5</setting>
+</settings>

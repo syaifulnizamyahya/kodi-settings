@@ -1,0 +1,1 @@
+["tolong mama papa", ["tolong mama papa", "tolong mama papa atuk", "mama papa tolong aku"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

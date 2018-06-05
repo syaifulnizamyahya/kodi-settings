@@ -1,0 +1,1 @@
+["towe", ["tower crane", "tower", "towel", "tower of savior", "tower conquest", "tower of babel", "towel origami", "tower 13", "tower defense", "tower of god"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

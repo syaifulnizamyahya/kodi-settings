@@ -1,0 +1,1 @@
+["bukan.", ["bukan.cinta biasa", "bukan. aku", "bukan.mudah lirik", "bukan dia", "bukan untukku", "bukan diriku", "bukan dia tapi aku judika", "bukan propaganda", "bukan untukku hyper act", "bukan salah gue"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

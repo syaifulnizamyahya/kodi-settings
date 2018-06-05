@@ -1,0 +1,1 @@
+["tolo", ["tolong mama papa", "tolong terangi malam sepiku", "tolong tepi sikit", "tolong terangi malam sepiku agar kembali ceria", "tolong jaga dia", "tolong ingatkan aku", "tolo tolo", "tolong", "tolo", "tolong jagakan dia"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

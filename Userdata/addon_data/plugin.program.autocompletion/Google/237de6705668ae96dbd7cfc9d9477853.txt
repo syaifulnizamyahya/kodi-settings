@@ -1,0 +1,1 @@
+["buk", ["bukan yang terbaik", "bukan aku", "bukan cinta biasa", "bukti", "bukan dia tapi aku", "bukan untukku", "buka hatimu", "bukan propaganda", "bukan ku tak sudi", "bukan aku tak cinta"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

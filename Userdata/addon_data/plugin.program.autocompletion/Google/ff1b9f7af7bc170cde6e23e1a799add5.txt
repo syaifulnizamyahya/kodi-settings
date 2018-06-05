@@ -1,0 +1,1 @@
+["tower", ["tower crane", "tower", "tower of savior", "tower conquest", "tower of babel", "tower 13", "tower defense", "tower of god", "tower of saviors bgm", "tower unite"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

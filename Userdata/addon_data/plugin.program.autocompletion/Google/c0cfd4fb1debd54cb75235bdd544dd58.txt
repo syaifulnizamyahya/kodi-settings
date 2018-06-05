@@ -1,0 +1,1 @@
+["tol", ["tolong mama papa", "tolong terangi malam sepiku", "tolong tepi sikit", "tolls", "tol", "told you so", "tolong terangi malam sepiku agar kembali ceria", "tollywood", "tolong jaga dia", "tollywood hot"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

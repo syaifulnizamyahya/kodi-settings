@@ -1,0 +1,1 @@
+["h", ["havana", "hantu", "how long", "haqiem rusli", "how to make slime", "huawei nova 2i", "havana cover", "how to basic", "highlight", "hello kitty"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

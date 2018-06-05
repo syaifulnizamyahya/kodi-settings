@@ -1,0 +1,50 @@
+<settings version="2">
+    <setting id="alsoimdb" default="true">false</setting>
+    <setting id="alsometa" default="true">false</setting>
+    <setting id="alsootherrotten" default="true">false</setting>
+    <setting id="alsorotten" default="true">false</setting>
+    <setting id="alsotmdb" default="true">false</setting>
+    <setting id="certificationssource" default="true">IMDb</setting>
+    <setting id="certprefix" default="true">Rated </setting>
+    <setting id="countrysource" default="true">IMDb</setting>
+    <setting id="creditssource" default="true">IMDb</setting>
+    <setting id="fanart">true</setting>
+    <setting id="fanarttvclearart">true</setting>
+    <setting id="fanarttvclearlogo">true</setting>
+    <setting id="fanarttvfanart" default="true">false</setting>
+    <setting id="fanarttvmoviebanner">true</setting>
+    <setting id="fanarttvmoviediscart">true</setting>
+    <setting id="fanarttvmovielandscape">true</setting>
+    <setting id="fanarttvposter" default="true">false</setting>
+    <setting id="fanarttvposterlanguage" default="true">en</setting>
+    <setting id="fullimdbsearch" default="true">false</setting>
+    <setting id="genressource" default="true">IMDb</setting>
+    <setting id="imdbakatitles" default="true">Keep Original</setting>
+    <setting id="imdbcertcountry" default="true">United States</setting>
+    <setting id="imdbsearchlanguage" default="true">None</setting>
+    <setting id="imdbthumbs" default="true">false</setting>
+    <setting id="imdbtop250">true</setting>
+    <setting id="mratingsource" default="true">IMDb</setting>
+    <setting id="omdbapikey" default="true">Please Enter Your OMDB API Key</setting>
+    <setting id="omdbapikey2" default="true">Please Enter Your OMDB API Key</setting>
+    <setting id="outlinesource" default="true">IMDb</setting>
+    <setting id="plotsource" default="true">IMDb</setting>
+    <setting id="searchservice" default="true">IMDb</setting>
+    <setting id="studiosource" default="true">themoviedb.org</setting>
+    <setting id="taglinesource" default="true">IMDb</setting>
+    <setting id="titlesource">themoviedb.org</setting>
+    <setting id="tmdbcertcountry" default="true">us</setting>
+    <setting id="tmdbgenreslanguage" default="true">en</setting>
+    <setting id="tmdbplotlanguage" default="true">en</setting>
+    <setting id="tmdbsearchlanguage" default="true">en</setting>
+    <setting id="tmdbset">true</setting>
+    <setting id="tmdbsetlanguage" default="true">en</setting>
+    <setting id="tmdbtaglinelanguage" default="true">en</setting>
+    <setting id="tmdbtags" default="true">None</setting>
+    <setting id="tmdbthumblanguage" default="true">en</setting>
+    <setting id="tmdbthumbs">true</setting>
+    <setting id="tmdbtitlelanguage" default="true">en</setting>
+    <setting id="tmdbtrailer">true</setting>
+    <setting id="tmdbtrailerlanguage" default="true">en</setting>
+    <setting id="tomato" default="true">TomatoMeter All Critics</setting>
+</settings>

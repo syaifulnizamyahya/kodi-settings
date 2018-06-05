@@ -1,0 +1,1 @@
+["amzn", ["amzn", "amzn stock", "amzn solo", "amzn technical analysis", "amzn stock analysis", "amzn stock 2017", "amzn earnings", "amzn tool", "amzn options", "amzn.to 2015"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,9 @@
+<settings version="2">
+    <setting id="ls_b" default="true"></setting>
+    <setting id="ls_d">true</setting>
+    <setting id="ls_O" default="true"></setting>
+    <setting id="ls_p" default="true"></setting>
+    <setting id="ls_u" default="true"></setting>
+    <setting id="ls_v">50</setting>
+    <setting id="pcm_3" default="true">0</setting>
+</settings>

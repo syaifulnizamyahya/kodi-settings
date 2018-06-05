@@ -1,0 +1,1 @@
+["half-life 2", ["half-life 2", "half-life 2 speedrun", "half-life 2 gameplay", "half-life 2 update", "half-life 2 episode 3", "half-life 2 mod", "half-life 2 download", "half-life 2 episode three", "half-life 2 episode one", "half-life 2 e3"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

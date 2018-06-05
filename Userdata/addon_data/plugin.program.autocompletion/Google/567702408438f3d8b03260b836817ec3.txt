@@ -1,0 +1,1 @@
+["amz", ["amzar", "amz", "amzah", "amzar viral", "amzar muzaffar", "amazing grace", "amzn", "amazing", "amzari", "amzee syahid"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,9 @@
+<settings version="2">
+    <setting id="clean_folder">true</setting>
+    <setting id="music_library_folder" default="true"></setting>
+    <setting id="rpc.service.port">43229</setting>
+    <setting id="set_subtitle">true</setting>
+    <setting id="slideshow_recursive" default="true">false</setting>
+    <setting id="slideshow_refresh_interval">5</setting>
+    <setting id="video_library_folder" default="true"></setting>
+</settings>

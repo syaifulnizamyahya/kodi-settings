@@ -1,0 +1,1 @@
+["dead", ["deadpool", "dead", "deadpool full movie", "deadpool 2", "deadpool song", "deadmau5", "dead island 2", "dead island", "dead rising", "dead rising 4"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

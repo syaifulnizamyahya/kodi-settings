@@ -1,0 +1,1 @@
+["de", ["despacito", "demi kita", "despacito remix", "despacito cover", "dendam aurora", "despacito dance", "detective conan", "dennis", "deadpool", "dear god"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

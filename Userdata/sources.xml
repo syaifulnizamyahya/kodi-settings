@@ -1,0 +1,114 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>LocalMovie</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/Movie/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/MovieKids/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/MovieKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/MovieSucks/</path>
+            <path pathversion="1">smb://TOWER/Movie/</path>
+            <path pathversion="1">smb://TOWER/MovieKids/</path>
+            <path pathversion="1">smb://TOWER/MovieKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/MovieSucks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>LocalMovieOffensive</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/MovieOffensive/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/MovieOffensiveSucks/</path>
+            <path pathversion="1">smb://TOWER/MovieOffensive/</path>
+            <path pathversion="1">smb://TOWER/MovieOffensiveSucks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>LocalTvShows</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/TvShows/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/TvShowsKids/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/TvShowsKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/TvShowsSucks/</path>
+            <path pathversion="1">smb://TOWER/TvShows/</path>
+            <path pathversion="1">smb://TOWER/TvShowsKids/</path>
+            <path pathversion="1">smb://TOWER/TvShowsKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/TvShowsSucks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>LocalTvShowsOffensive</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/uploaded/TvShowsOffensive/</path>
+            <path pathversion="1">smb://TOWER/TvShowsOffensive/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>RcloneMovie</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/Movie/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/MovieKids/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/MovieKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/MovieNew/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/MovieSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/Movie/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/MovieKids/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/MovieKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/MovieSucks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>RcloneMovieOffensive</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/MovieOffensive/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/MovieOffensiveSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/MovieOffensive/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/MovieOffensiveSucks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>RcloneTvShows</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/TvShows/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/TvShowsKids/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/TvShows/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/TvShowsKidsSucks/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/TvShowsSucks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>RcloneTvShowsOffensive</name>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/encfsrclone/TvShowsOffensive/</path>
+            <path pathversion="1">smb://TOWER/Cloud/ijm/amznrclone/TvShowsOffensive/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TOWER</name>
+            <path pathversion="1">smb://TOWER/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Alia</name>
+            <path pathversion="1">smb://TOWER/Video/Alia/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>SuperRepo</name>
+            <path pathversion="1">http://srp.nu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Israel Repo</name>
+            <path pathversion="1">http://kdil.co/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

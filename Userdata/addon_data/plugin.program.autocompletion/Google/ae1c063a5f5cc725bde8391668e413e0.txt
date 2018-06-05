@@ -1,0 +1,1 @@
+["bu", ["bunga ara", "bukan yang terbaik", "bunkface", "burn it down", "bunga", "bunga angkasa", "buruk cantik", "buta", "bujang lapok", "bukan aku"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

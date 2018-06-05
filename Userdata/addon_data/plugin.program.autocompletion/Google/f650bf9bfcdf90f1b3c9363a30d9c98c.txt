@@ -1,0 +1,1 @@
+["bukani", ["bukani", "bukanishte", "bukania confraternity", "bukanitalia", "bukanier trettmann", "bukanier", "bukania", "bukanir", "bukanegan", "bukanik elbasan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,64 @@
+<settings version="2">
+    <setting id="add_episodes_to_trakt">true</setting>
+    <setting id="add_movies_to_trakt">true</setting>
+    <setting id="Auth_Info" default="true"></setting>
+    <setting id="authorization">{&quot;access_token&quot;: &quot;085b0d7367d8894f7827ab7df7390d54485781e24b17643741ee230868eff05f&quot;, &quot;created_at&quot;: 1525102175, &quot;expires_in&quot;: 7776000, &quot;token_type&quot;: &quot;bearer&quot;, &quot;scope&quot;: &quot;public&quot;, &quot;refresh_token&quot;: &quot;50bfdfe607b5162c7395331ec05ddc3ae29802c78c63fc4effa2f5a6aa1195d8&quot;}</setting>
+    <setting id="clean_trakt_episodes" default="true">false</setting>
+    <setting id="clean_trakt_movies" default="true">false</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="ExcludeHTTP" default="true">false</setting>
+    <setting id="ExcludeLiveTV" default="true">false</setting>
+    <setting id="ExcludePath" default="true"></setting>
+    <setting id="ExcludePath10" default="true"></setting>
+    <setting id="ExcludePath11" default="true"></setting>
+    <setting id="ExcludePath12" default="true"></setting>
+    <setting id="ExcludePath2" default="true"></setting>
+    <setting id="ExcludePath3" default="true"></setting>
+    <setting id="ExcludePath4" default="true"></setting>
+    <setting id="ExcludePath5" default="true"></setting>
+    <setting id="ExcludePath6" default="true"></setting>
+    <setting id="ExcludePath7" default="true"></setting>
+    <setting id="ExcludePath8" default="true"></setting>
+    <setting id="ExcludePath9" default="true"></setting>
+    <setting id="ExcludePathOption" default="true">false</setting>
+    <setting id="ExcludePathOption10" default="true">false</setting>
+    <setting id="ExcludePathOption11" default="true">false</setting>
+    <setting id="ExcludePathOption12" default="true">false</setting>
+    <setting id="ExcludePathOption2" default="true">false</setting>
+    <setting id="ExcludePathOption3" default="true">false</setting>
+    <setting id="ExcludePathOption4" default="true">false</setting>
+    <setting id="ExcludePathOption5" default="true">false</setting>
+    <setting id="ExcludePathOption6" default="true">false</setting>
+    <setting id="ExcludePathOption7" default="true">false</setting>
+    <setting id="ExcludePathOption8" default="true">false</setting>
+    <setting id="ExcludePathOption9" default="true">false</setting>
+    <setting id="ExcludePlugin" default="true">false</setting>
+    <setting id="ExcludeScript" default="true">false</setting>
+    <setting id="hide_notifications_playback" default="true">false</setting>
+    <setting id="kodi_episode_playcount">true</setting>
+    <setting id="kodi_movie_playcount">true</setting>
+    <setting id="last_reminder">1525087043</setting>
+    <setting id="rate_each_playlist_item">false</setting>
+    <setting id="rate_episode">false</setting>
+    <setting id="rate_min_view_time">75</setting>
+    <setting id="rate_movie">false</setting>
+    <setting id="rate_rerate">true</setting>
+    <setting id="rating_default">6</setting>
+    <setting id="scrobble_episode">true</setting>
+    <setting id="scrobble_fallback">true</setting>
+    <setting id="scrobble_movie">true</setting>
+    <setting id="scrobble_mythtv_pvr" default="true">false</setting>
+    <setting id="scrobble_notification" default="true">false</setting>
+    <setting id="scrobble_secondary_title" default="true">false</setting>
+    <setting id="scrobble_start_offset" default="true">0</setting>
+    <setting id="show_sync_notifications">true</setting>
+    <setting id="startup_delay" default="true">0</setting>
+    <setting id="sync_on_update">true</setting>
+    <setting id="trakt_episode_playback" default="true">false</setting>
+    <setting id="trakt_episode_playcount">true</setting>
+    <setting id="trakt_movie_playback" default="true">false</setting>
+    <setting id="trakt_movie_playcount">true</setting>
+    <setting id="trakt_sync_ratings">true</setting>
+    <setting id="user">publicENEMY</setting>
+    <setting id="version">3.2.0</setting>
+</settings>

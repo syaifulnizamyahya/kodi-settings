@@ -1,0 +1,1 @@
+["bukan ak", ["bukan aku", "bukan aku tak cinta", "bukan aku lirik", "bukan aku karaoke", "bukan aku tapi dia", "bukan aku cover", "bukan aku tak setia", "bukan aku live", "bukan aku tak cinta cover", "bukan aku tak mencintaimu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

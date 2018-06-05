@@ -1,0 +1,1 @@
+["dea", ["deadpool", "dear god", "dealova", "death note", "dean", "dead", "deadpool full movie", "deadpool 2", "dear mantan", "deadpool song"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

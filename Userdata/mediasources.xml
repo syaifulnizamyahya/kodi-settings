@@ -1,0 +1,7 @@
+<mediasources>
+    <network>
+        <location id="0">smb://TOWER/Cloud/ijm/uploaded</location>
+        <location id="1">smb://TOWER/</location>
+        <location id="2">smb://TOWER/Cloud/ijm/encfsrclone</location>
+    </network>
+</mediasources>

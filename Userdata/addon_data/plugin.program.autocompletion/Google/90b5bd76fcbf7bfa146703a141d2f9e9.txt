@@ -1,0 +1,1 @@
+["kuala lumpur", ["kuala lumpur", "kuala lumpur airport", "kuala lumpur song", "kuala lumpur city 2017", "kuala lumpur lagu", "kuala lumpur hujan", "kuala lumpur blog", "kuala lumpur massage", "kuala lumpur drone", "kuala lumpur mrt"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

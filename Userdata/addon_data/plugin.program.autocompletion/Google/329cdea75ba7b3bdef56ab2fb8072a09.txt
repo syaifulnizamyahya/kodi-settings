@@ -1,0 +1,1 @@
+["bukanu", ["bukan untukku", "bukan untuk selamanya", "bukan untukmu", "bukan untukku lirik", "bukan untuk yang pertama", "bukan untukku cover", "bukan untukku live", "bukan untuk selamanya lirik", "bukan untuk sesaat", "bukan untukku akustik"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

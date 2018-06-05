@@ -1,0 +1,1 @@
+["hal", ["halloween", "hall of fame", "halo", "halloween songs", "halsey", "halim yazid", "halloween makeup", "halalkah aku", "halaqah", "halaman asmara"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

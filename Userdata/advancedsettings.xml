@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advancedsettings>
+   <videolibrary>
+      <recentlyaddeditems>999999</recentlyaddeditems>
+      <!-- number of recently added items. Defaults to 25 -->
+   </videolibrary>
+   <video>
+      <excludefromscan>
+         <regexp>[-\._ ](extrafanart|trailer|extrathumbs|sample|extras|noscan)[-\._ ]</regexp>
+         <regexp>(?i)sample</regexp>
+         <!-- Greedy, whole path, case insensitive ignore -->
+      </excludefromscan>
+      <excludefromlisting>
+         <regexp>[-._ \\/](extrafanart|trailer|extrathumbs|sample|extras|noscan)[-._ \\/]</regexp>
+         <regexp>(?i)sample</regexp>
+         <!-- Greedy, whole path, case insensitive ignore -->
+      </excludefromlisting>
+      <excludefromscan action="append">
+         <regexp>/(extrafanart|trailer|extrathumbs|sample|extras|noscan)/</regexp>
+         <regexp>[\\/](extrafanart|trailer|extrathumbs|sample|extras|noscan)[\\/]</regexp>
+      </excludefromscan>
+      <excludetvshowsfromscan action="append">
+         <regexp>/(extrafanart|trailer|extrathumbs|sample|extras|noscan)/</regexp>
+         <regexp>[\\/](extrafanart|trailer|extrathumbs|sample|extras|noscan)[\\/]</regexp>
+      </excludetvshowsfromscan>
+   </video>
+</advancedsettings>

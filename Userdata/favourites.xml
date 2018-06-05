@@ -1,0 +1,10 @@
+<favourites>
+    <favourite name="Running Man" thumb="smb://TOWER/TvShowsKids/Running Man/poster.jpg">ActivateWindow(10025,&quot;smb://TOWER/TvShowsKids/Running Man/&quot;,return)</favourite>
+    <favourite name="Rurouni Kenshin" thumb="smb://TOWER/TvShowsKids/Rurouni Kenshin/folder.jpg">ActivateWindow(10025,&quot;smb://TOWER/TvShowsKids/Rurouni Kenshin/&quot;,return)</favourite>
+    <favourite name="Alia">ActivateWindow(10025,&quot;smb://TOWER/Video/Alia/&quot;,return)</favourite>
+    <favourite name="Naruto" thumb="smb://TOWER/Cloud/ijm/encfsrclone/TvShowsKids/Naruto/poster.jpg">ActivateWindow(10025,&quot;videodb://tvshows/titles/65/&quot;,return)</favourite>
+    <favourite name="Babam Ve Olum" thumb="smb://TOWER/Cloud/ijm/encfsrclone/Movie/Babam Ve Olum (2005)/Babam.ve.Olum.2005.1080p.NF.WEB-DL.DD5.1.x264-AJP69-poster.jpg">PlayMedia(&quot;smb://TOWER/Cloud/ijm/encfsrclone/Movie/Babam Ve Olum (2005)/Babam.ve.Olum.2005.1080p.NF.WEB-DL.DD5.1.x264-AJP69.mkv&quot;)</favourite>
+    <favourite name="Dr. Horrible&apos;s Sing-Along Blog" thumb="smb://TOWER/Cloud/ijm/encfsrclone/Movie/Dr. Horrible&apos;s Sing-Along Blog (2008)/poster.jpg">PlayMedia(&quot;smb://TOWER/Cloud/ijm/encfsrclone/Movie/Dr. Horrible&apos;s Sing-Along Blog (2008)/VIDEO_TS/VIDEO_TS.IFO&quot;)</favourite>
+    <favourite name="In This Corner of the World" thumb="smb://TOWER/Cloud/ijm/encfsrclone/MovieSucks/In This Corner of the World (2016)/In.This.Corner.of.the.World.2016.1080p.BluRay.x264-WiKi-poster.jpg">PlayMedia(&quot;smb://TOWER/Cloud/ijm/encfsrclone/MovieSucks/In This Corner of the World (2016)/In.This.Corner.of.the.World.2016.1080p.BluRay.x264-WiKi.mkv&quot;)</favourite>
+    <favourite name="Your Name." thumb="smb://TOWER/Cloud/ijm/encfsrclone/Movie/Your Name. (2016)/Kimi.No.Na.Wa.2016.1080p.1080p.BluRay.x264.DTS-HD.MA.5.1-HDC-poster.jpg">PlayMedia(&quot;smb://TOWER/Cloud/ijm/encfsrclone/Movie/Your Name. (2016)/Kimi.No.Na.Wa.2016.1080p.1080p.BluRay.x264.DTS-HD.MA.5.1-HDC.mkv&quot;)</favourite>
+</favourites>

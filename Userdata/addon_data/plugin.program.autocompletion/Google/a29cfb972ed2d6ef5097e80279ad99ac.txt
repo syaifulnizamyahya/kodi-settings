@@ -1,0 +1,1 @@
+["bukan.ijam", ["buka jam tangan", "boka jamai", "buka jam", "jamphe johnson buka kartu", "jamrud buka sitik jos", "buka kartu jamphe", "ibnu jamil buka baju", "jamrud kubuka jendela", "buka bukaan mulan jameela"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

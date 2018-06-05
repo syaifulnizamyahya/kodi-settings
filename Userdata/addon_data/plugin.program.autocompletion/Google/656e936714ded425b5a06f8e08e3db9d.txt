@@ -1,0 +1,1 @@
+["dead b", ["dead by daylight", "dead bite", "dead by april", "dead body", "dead by sunrise", "dead by daylight freddy", "dead body prank", "dead bell", "dead before dawn", "dead by daylight doctor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

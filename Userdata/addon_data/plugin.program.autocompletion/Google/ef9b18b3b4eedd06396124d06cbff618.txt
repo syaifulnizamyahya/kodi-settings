@@ -1,0 +1,1 @@
+["half-lif", ["half-life", "half-life 2", "half-life black mesa", "half-life 3", "half-life skins pack download", "half-life aim download", "half-life uplink", "half-life 2 update", "half-life ps2", "half-life source"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
